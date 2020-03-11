@@ -1,0 +1,5 @@
+beautifulsoup4==4.8.2
+purl==1.5
+six==1.14.0
+soupsieve==1.9.5
+tpblite==0.3.0
